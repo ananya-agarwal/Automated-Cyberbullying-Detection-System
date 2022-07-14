@@ -7,3 +7,6 @@ The final execution of the project will have the following outcomes:
 conversations on social media platforms using NLP.
 • A fully functional discord bot having administrative capabilities which uses the above ML 
 model to detect Cyberbullying and take appropriate actions when it detects such activity
+
+<img src="" width=900>
+<br>
