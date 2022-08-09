@@ -1,6 +1,7 @@
-# Automated_cyberbullying_detection
+# Automated Cyberbullying Detection System
 
-Created Discord bot and Machine Learning model which will analyse text in discord channels and flag them based on Cyberbullying using Python. Libraries used: spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy etc.
+Created Discord bot and Machine Learning model which will analyse text in discord channels and flag them based on Cyberbullying using Python. 
+Libraries used: spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy etc.
 
 The final execution of the project will have the following outcomes:
 • A ML model which will reliably detect any cyberbullying activity over textual 
