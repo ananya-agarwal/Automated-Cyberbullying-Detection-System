@@ -37,7 +37,7 @@ spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy, etc.
 ## Challanges and Future Scope
 <ul>
 <li> Further increasing accuracy of the model as it requires to take care of the context in which words are used to be able to properly classify it.</li>
-<li> Converting the code so that it can be used in case of videos, images and audio.</li>
+<li> Converting the code so that it can be used in case of videos, images and audio as well.</li>
 </ul>
 
 ## UML Diagrams
