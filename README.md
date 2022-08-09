@@ -19,8 +19,10 @@
 <li> Further, developing chatbots for various social media platforms like Discord (https://discord.com/) to try to detect cyberbullying using the above machine learning model, and take appropriate measures. </li>
 </ul>
 
-## Tech Used: Transfer Learning, Python, Google Colab, etc.
-## Python Libraries used during training of the ML model: spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy, etc.
+## Tech Used: 
+Transfer Learning, Python, Google Colab, etc.
+## Python Libraries used during training of the ML model: 
+spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy, etc.
 
 ## Path Followed
 <ul>
