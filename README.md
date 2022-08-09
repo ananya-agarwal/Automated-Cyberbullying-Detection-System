@@ -39,3 +39,10 @@ spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy, etc.
 <li> Further increasing accuracy of the model as it requires to take care of the context in which words are used.</li>
 <li> Converting the code so that it can be used in case of videos, images and audio.</li>
 </ul>
+
+## UML Diagrams
+
+![act](https://user-images.githubusercontent.com/68558847/183718066-81aa2191-a510-4a9e-86c0-7176a89869f4.png)
+
+![wbs](https://user-images.githubusercontent.com/68558847/183718019-8ee1ea2c-f40a-4c9e-be74-cb5257c4a579.png)
+
