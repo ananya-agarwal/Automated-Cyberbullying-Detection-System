@@ -17,6 +17,7 @@
 <ul>
 <li> Develop a Machine Learning model, which will classify any text into 6 categories which are as follows: age-based cyberbullying, ethnicity-based cyberbullying, gender-based cyberbullying, religion-based cyberbullying, any other form of  cyberbullying, and not cyberbullying.</li>
 <li> Further, developing chatbots for various social media platforms like Discord (https://discord.com/) to try to detect cyberbullying using the above machine learning model, and take appropriate measures. </li>
+<li> Dataset from Kaggle having 47693 sentences / tweets. </li>
 </ul>
 
 ## Tech Used: 
