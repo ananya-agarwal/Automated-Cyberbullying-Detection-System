@@ -4,7 +4,7 @@
 <ul>
 <li> 60% of teenagers have experienced some sort of cyberbullying.</li>
 <li> Overall, 36.5% of people feel they have been cyberbullied in their lifetime.</li>
-<li> Increasing Cyberbullying since digital sphere has expanded and technology has advanced.</li>
+<li> Increasing Cyberbullying since digital sphere (social media) has expanded and technology has advanced so its misuse has also increased.</li>
 </ul>
 
 ## Abstract
