@@ -38,8 +38,6 @@ spacy, NLTK, scikit-learn, TensorFlow, Keras, NumPy, etc.
 <ul>
 <li> Further increasing accuracy of the model as it requires to take care of the context in which words are used to be able to properly classify it.</li>
 <li> Converting the code so that it can be used in case of videos, images and audio as well.</li>
-<li> Funding for the camera</li>
-  <li> Integration of mech and computer engineering tasks</li>
 </ul>
 
 ## UML Diagrams
